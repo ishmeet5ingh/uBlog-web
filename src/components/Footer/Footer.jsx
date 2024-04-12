@@ -87,7 +87,7 @@ function Footer() {
                     className=" text-base font-medium hover:text-red-200"
                     to="/"
                   >
-                    Contact Us
+                    Contact us
                   </Link>
                 </li>
                 <li>
